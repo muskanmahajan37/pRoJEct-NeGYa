@@ -11,10 +11,10 @@ encrypted_text: true
 permalink: /
 ---
 
-# PROJECT NEGYA - HACKER-STYLE PERSONAL HOMEPAGE
+# PERSONAL HOMEPAGE
 
 ##  Features
-* Highly customizable, content-oriented with The Matrix style
+* The Matrix style
 * Eyesight-protection layout
 * Decrypt and encrypt text (access token: 233): 
   * secret msg 1: 
@@ -35,7 +35,4 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-## Download and Documentation
-
-[**pRoJEct NeGYa (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa)
 
